@@ -35,17 +35,12 @@
         </dependency>
 
     </dependencies>
-<<<<<<< HEAD
-
-
->>>>>>> d2eab4f9b1207a4eede923db7bee9c7f54fc78aa
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
-=======
->>>>>>> d2eab4f9b1207a4eede923db7bee9c7f54fc78aa
+
     
  
 
