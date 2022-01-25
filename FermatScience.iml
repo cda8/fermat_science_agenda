@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module type="JAVA_MODULE" version="4">
+=======
+<module version="4">
+>>>>>>> riyad
   <component name="CheckStyle-IDEA-Module">
     <option name="configuration">
       <map />
     </option>
+<<<<<<< HEAD
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+=======
+>>>>>>> riyad
   </component>
 </module>
