@@ -4,6 +4,7 @@
 # CodeStream ignored files
 /../../FermatScience\.idea/codestream.xml
 <<<<<<< HEAD
+<<<<<<< HEAD
 /target/
 =======
 <<<<<<< HEAD
@@ -12,3 +13,6 @@
 /target/
 >>>>>>> marie
 >>>>>>> bc465a93c49f2c6b91e877169c8274480178fc2b
+=======
+/target/
+>>>>>>> bruno
