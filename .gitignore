@@ -3,4 +3,8 @@
 /.idea
 # CodeStream ignored files
 /../../FermatScience\.idea/codestream.xml
+<<<<<<< HEAD
 
+=======
+/target/
+>>>>>>> marie
