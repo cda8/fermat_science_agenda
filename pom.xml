@@ -8,7 +8,6 @@
 	<artifactId>FermatScience</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
-<<<<<<< HEAD
     <dependencies>
         <dependency>
             <groupId>org.hibernate</groupId>
@@ -43,16 +42,11 @@
     
     <dependencies>
     	<dependency>
-=======
-	<dependencies>
-		<dependency>
->>>>>>> bc465a93c49f2c6b91e877169c8274480178fc2b
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
 			<version>5.6.2.Final</version>
 		</dependency>
 		<dependency>
-<<<<<<< HEAD
 		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
 		    <version>4.13.2</version>
@@ -69,28 +63,5 @@
 		    <version>1.7.32</version>
 		</dependency>
     </dependencies>
-=======
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<version>42.3.1</version>
-		</dependency>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.13.2</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.32</version>
-		</dependency>
-	</dependencies>
-	
-	<properties>
-		<maven.compiler.source>8</maven.compiler.source>
-		<maven.compiler.target>8</maven.compiler.target>
-	</properties>
->>>>>>> bc465a93c49f2c6b91e877169c8274480178fc2b
 
 </project>
