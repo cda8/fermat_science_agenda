@@ -2,18 +2,18 @@ package fr.afpa.fermatscience.agenda.entity;
 
 public class User {
 
-	private Integer idUser;
+	private int idUser;
 	private String nameUser;
 	private String surnameUser;
 	private String mailUser;
 	private String passwordUser;
-	private Integer ageUser;
+	private int ageUser;
 	
 	public User() {
 		
 	}
 	
-	public User(String nameUser, String surnameUser, String mailUser, String passwordUser, Integer ageUser) {
+	public User(String nameUser, String surnameUser, String mailUser, String passwordUser, int ageUser) {
 		this.nameUser = nameUser;
 		this.surnameUser = surnameUser;
 		this.mailUser = mailUser;
@@ -21,10 +21,10 @@ public class User {
 		this.ageUser = ageUser;
 	}
 
-	public Integer getIdUser() {
+	public int getIdUser() {
 		return idUser;
 	}
-	public void setIdUser(Integer idUser) {
+	public void setIdUser(int idUser) {
 		this.idUser = idUser;
 	}
 	public String getNameUser() {
@@ -51,10 +51,10 @@ public class User {
 	public void setPasswordUser(String passwordUser) {
 		this.passwordUser = passwordUser;
 	}
-	public Integer getAgeUser() {
+	public int getAgeUser() {
 		return ageUser;
 	}
-	public void setAgeUser(Integer ageUser) {
+	public void setAgeUser(int ageUser) {
 		this.ageUser = ageUser;
 	}
 	
