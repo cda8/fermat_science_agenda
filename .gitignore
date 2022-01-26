@@ -3,3 +3,5 @@
 /.idea
 # CodeStream ignored files
 /../../FermatScience\.idea/codestream.xml
+/target/
+/bin/
